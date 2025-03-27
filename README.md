@@ -2,6 +2,8 @@
 
 This repository contains code for finance and supply chain analytics, designed to perform various financial and sales analysis tasks. The code comprises SQL queries, functions, reports, stored procedures, triggers, events, and user management for analyzing finance and supply chain data.
 
+![FINANCE (4)](1000_F_1137542486_7Y2lPzJr2HzhWuwhXpG35Dh9Xc5W9kI1.jpg)
+
 ## Finance Analytics
 
 ### A. Customer Codes for Croma India
